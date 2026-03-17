@@ -1,15 +1,16 @@
 body {
-    font-family: 'Montserrat', 'Arial';    
- 
-}
-
-input, button, a {
-    font-family: 'Montserrat', 'Arial';
+    font-family: 'Montserrat', 'Arial'; 
     background-image: url(./images/Rectangle\ 15.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
+ 
+}
+
+input, button, a {
+    font-family: 'Montserrat', 'Arial';
+
 }
 
 .header {
