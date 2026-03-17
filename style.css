@@ -5,11 +5,11 @@ body {
 
 input, button, a {
     font-family: 'Montserrat', 'Arial';
-        background-image: url(./images/Rectangle\ 15.png);
+    background-image: url(./images/Rectangle\ 15.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height:
+    height: 100vh;
 }
 
 .header {
